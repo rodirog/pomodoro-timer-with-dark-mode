@@ -274,6 +274,13 @@ button {
     padding: 2rem 0 0 0;
   }
 
+  .light-mode-sun, 
+  .dark-mode-moon {
+  position: fixed;
+  right: 1rem;
+  top: 1rem;
+  }
+
   main {
     display: flex;
     gap: 19.2rem;
