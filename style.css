@@ -26,18 +26,18 @@ body.dark-mode{
 .light-mode-sun, 
 .dark-mode-moon{
   position: fixed;
-  right: 2.5rem;
-  top: 3.5rem;
+  right: 1.5rem;
+  top: 2.5rem;
 }
 
 .light-mode-sun svg {
-width: clamp(3rem, 4vw + 1rem, 4.4rem);
-height: clamp(3rem, 4vw + 1rem, 4.4rem);
+width: clamp(2rem, 4vw + 1rem, 4.4rem);
+height: clamp(2rem, 4vw + 1rem, 4.4rem);
 }
 
 .dark-mode-moon svg {
-width: clamp(3rem, 3vw + 1rem, 3.6rem);
-height: clamp(3rem, 3vw + 1rem, 3.6rem);
+width: clamp(2rem, 3vw + 1rem, 3.6rem);
+height: clamp(2rem, 3vw + 1rem, 3.6rem);
 }
 
 main {
