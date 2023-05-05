@@ -26,8 +26,8 @@ body.dark-mode{
 .light-mode-sun, 
 .dark-mode-moon{
   position: fixed;
-  right: 3rem;
-  top: 3rem;
+  right: 1rem;
+  top: 1rem;
 }
 
 main {
@@ -277,8 +277,8 @@ button {
   .light-mode-sun, 
   .dark-mode-moon {
   position: fixed;
-  right: 1rem;
-  top: 1rem;
+  right: 3rem;
+  top: 3rem;
   }
 
   main {
